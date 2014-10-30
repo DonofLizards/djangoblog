@@ -5,3 +5,6 @@ mysite/settings.py
 live
 desolute-hollows-6271
 mysite/local_settings.py
+Procfile
+static
+db.sqlite3
